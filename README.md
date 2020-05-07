@@ -3,4 +3,5 @@ aПервое тестовое в моей жизни :3
 Сохранил из сентиментальных соображений. uchi one love ^^
 
 Принципиально ничего не менял
-<a href='uchionelove>Вот это чудо</a>
+
+<a href='https://pinkhonkkonggmr.github.io/uchionelove/index.html'>Вот это чудо</a>
